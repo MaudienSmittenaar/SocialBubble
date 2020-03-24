@@ -1,8 +1,8 @@
 h1 {
 	overflow: hidden;
   padding:20px;
-  margin: 40px;
-  font-size: 74px;
+  margin: 0px;
+  font-size: 80px;
   text-align: center;
   font-weight: bold;
   color: rgb(58, 185, 143);
@@ -44,5 +44,10 @@ h3 {
 }
 
 iframe {
+  margin: 40px;
+}
+
+img {
+  float: right;
   margin: 40px;
 }
