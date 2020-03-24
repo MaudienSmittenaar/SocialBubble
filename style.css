@@ -72,3 +72,14 @@ a:hover {
 a:active {
   color: blue;
 }
+
+thead {
+  border: 2px black;
+}
+
+nav {
+  float: left;
+  margin: 20px;
+  display: inline-block;
+  height: 100px;
+}
