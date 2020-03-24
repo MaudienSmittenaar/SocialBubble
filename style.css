@@ -4,13 +4,15 @@ h1 {
   margin: 40px;
   font-size: 60px;
   text-align: center;
+  font-weight: bold;
+  color: rgb(58, 185, 143);
 }
 
 h2 {
   font-style:italic;
   text-decoration:underline;
   margin: 40px;
-  color: mediumaquamarine;
+  color: rgb(58, 185, 143);
 }
 
 a {
