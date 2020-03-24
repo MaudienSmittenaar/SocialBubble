@@ -50,4 +50,5 @@ iframe {
 img {
   float: right;
   margin: 40px;
+  border-radius: 75%;
 }
