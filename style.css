@@ -10,7 +10,7 @@ h2 {
   font-style:italic;
   text-decoration:underline;
   margin: 40px;
-  color: mediumaquamarine
+  color: mediumaquamarine;
 }
 
 nav {
@@ -38,7 +38,7 @@ header{
   background-size: cover;
   background-position: center;
   width: 100%;
-  height:30%;
+  height: 125px;
 }
 
 h3 {
