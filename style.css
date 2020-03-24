@@ -12,6 +12,7 @@ h2 {
   font-style:italic;
   text-decoration:underline;
   margin: 40px;
+  padding: 0;
   color: rgb(58, 185, 143);
 }
 
@@ -25,7 +26,7 @@ p{
   border: 2px solid black;
 	border-radius: 10px;
 	overflow: hidden;
-  padding:30px;
+  padding: 30px;
   font-size: 20px;
   margin: 40px;
 }
@@ -55,7 +56,7 @@ img {
 
 /* unvisited link */
 a:link {
-  color: red;
+  color: rgb(42, 73, 60);
 }
 
 /* visited link */
