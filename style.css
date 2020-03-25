@@ -52,6 +52,7 @@ img {
   float: right;
   margin: 40px;
   border-radius: 75%;
+  border: solid #137953a6 5px;
 }
 
 /* unvisited link */
@@ -131,6 +132,11 @@ form {
   font-style: oblique;
 }
 		
+#foto {
+  border-radius: 0;
+  float: left;
+  border: solid #137953a6 5px;
+}
 
 		td, th {
 			border: 1px solid black;
