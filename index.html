@@ -131,8 +131,25 @@ Soms helpt het om in andermans schoenen te gaan staan, om jezelf te verplaatsen 
         <input name="telefoon" id="telefoon" value="Uw telefoonnummer">
         </div> 
         <div>
-        <label for="Land">Land: </label>
-        <input name="land" id="land" value="Land van afkomst"
+        <label for="Land">Kies je land: </label> 
+       <select name="land" id="land">
+				<optgroup label="-">
+          <option>- Kies je land -</option>
+        <optgroup label="Europa">
+					<option>Nederland</option>
+					<option>België</option>
+					<option>Frankrijk</option>
+          <option>Duitsland</option>
+          <option>Spanje</option>
+          <option>Portugal</option>
+				</optgroup>
+				<optgroup label="Buiten Europa">
+					<option>Amerika</option>
+					<option>Rusland</option>
+					<option>China</option>
+          <option>Japan</option>
+				</optgroup>
+			</select>
 			</div>
       <input type="submit">
 		</fieldset>
