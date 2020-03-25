@@ -6,7 +6,7 @@ h1 {
   font-size: 80px;
   text-align: center;
   font-weight: bold;
-  color: rgb(58, 185, 143);
+  color: rgb(41, 131, 101);
 }
 
 h2 {
@@ -14,7 +14,7 @@ h2 {
   text-decoration:underline;
   margin: 40px;
   padding-top: 20px;
-  color: rgb(58, 185, 143);
+  color: rgb(41, 131, 101);
 }
 
 a {
@@ -30,6 +30,7 @@ p{
   padding: 30px;
   font-size: 20px;
   margin: 40px;
+  color : rgb(58, 185, 143);
 }
 
 header{ 
