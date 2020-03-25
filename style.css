@@ -120,8 +120,10 @@ form {
 			margin-bottom: 2em;
 			border-collapse: collapse;
 			table-layout: fixed;
-			width: 80%;
       margin: 40px;
+      margin-left: 30px;
+      width: 97%;
+      caption-side: top;
 
 		}
 		
