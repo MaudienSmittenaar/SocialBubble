@@ -12,6 +12,7 @@ h2 {
   font-style:italic;
   text-decoration:underline;
   margin: 40px;
+  margin-left: 15em;
   padding: 0;
   color: rgb(58, 185, 143);
 }
@@ -29,6 +30,7 @@ p{
   padding: 30px;
   font-size: 20px;
   margin: 40px;
+  margin-left: 15em;
 }
 
 header{ 
@@ -42,10 +44,12 @@ header{
 
 h3 {
   margin: 40px;
+  margin-left: 15em;
 }
 
 iframe {
   margin: 40px;
+  margin-left: 19em;
 }
 
 img {
@@ -79,17 +83,9 @@ thead {
 }
 
 li {
-  display: inline-block;
-    border-radius: 5px 5px 0px 0px;
-    border-bottom: 10px solid rgba(58, 185, 143, 0.404);
-    background-color: rgba(255, 255, 255, 0.64);
-    color: black;
-    text-decoration: none;
-    padding: 5px 25px;
-    margin: 9px;
-    transition: bottom 300ms ease;
-    position:relative;
-    bottom: -10px;
+    	position: left absolute;
+			left: 0;
+			width: 17em;
 }
 
 body {
@@ -111,3 +107,19 @@ body {
 			clear: left;
 			width: 7em;
 		}
+
+    form {
+      margin-left: 19em;
+    }
+
+    	display: inline-block;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 10px solid rgba(58, 185, 143, 0.404);
+    background-color: rgba(255, 255, 255, 0.64);
+    color: black;
+    text-decoration: none;
+    padding: 5px 25px;
+    margin: 9px;
+    transition: bottom 300ms ease;
+    position:relative;
+    bottom: -10px;
