@@ -124,8 +124,12 @@ form {
       margin-left: 30px;
       width: 97%;
       caption-side: top;
-
 		}
+
+#caption {
+  font-size: 24px;
+  font-style: oblique;
+}
 		
 
 		td, th {
