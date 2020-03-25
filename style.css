@@ -1,12 +1,12 @@
 h1 {
 	overflow: hidden;
-  text-shadow: -3px 3px 3px #999;
+  text-shadow: -3px 3px 3px rgb(0, 0, 0);
   padding: 50px;
   margin: 0px;
   font-size: 80px;
   text-align: center;
   font-weight: bold;
-  color: rgb(41, 131, 101);
+  color: white;
 }
 
 h2 {
@@ -34,12 +34,13 @@ p{
 }
 
 header{ 
-  background: white url(https://media3.s-nbcnews.com/j/newscms/2019_42/3053096/191015-reinforcement-bubble-main-kh_b57c5a225d65f3d0e51ee27dfa3bd732.fit-2000w.jpg); 
+  background: white url(https://cdn.pixabay.com/photo/2019/10/17/18/24/soap-bubbles-4557501_960_720.jpg); 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
   height: 175px;
+  border: solid #137953a6 5px;
 }
 
 h3 {
