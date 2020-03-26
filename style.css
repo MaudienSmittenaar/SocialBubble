@@ -82,7 +82,7 @@ thead {
   border: 2px black;
 }
 
-li {
+#lijst {
   display: inline-block;
     border-radius: 5px 5px 0px 0px;
     border-bottom: 10px solid rgba(58, 185, 143, 0.404);
@@ -150,4 +150,8 @@ form {
   border-radius: 10px;
   float: right;
   border: solid #137953a6 5px;
+}
+
+#lijst {
+  
 }
